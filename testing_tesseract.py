@@ -24,7 +24,5 @@ text = tess.image_to_string(img)
 
 
 
+
 print(text)
-
-
-
